@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) as a technical test for Encord.
 
+## Quick start
+
+### `npm run server`
+### `npm start`
+
+will get you up and running right away.
+
 ## Available Scripts
 
 In the project directory, you can run:
